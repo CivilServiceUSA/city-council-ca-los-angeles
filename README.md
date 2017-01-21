@@ -5,7 +5,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 City Council Data for Los Angeles, CA
 ===
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/us-states/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/us-states.svg)](https://github.com/CivilServiceUSA/us-states/graphs/contributors)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/city-council-ca-los-angeles/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/city-council-ca-los-angeles.svg)](https://github.com/CivilServiceUSA/city-council-ca-los-angeles/graphs/contributors)
 
 ![Los Angeles, CA](city-council/images/backgrounds/640x360/city.jpg "Los Angeles, CA")
 
@@ -22,7 +22,7 @@ Completed Tasks
 We have completed the following Data Collection for Los Angeles, CA. [Watch Project](https://github.com/CivilServiceUSA/city-council-ca-los-angeles/subscription) to be notified of updates.
 
 - [ ] City Council Data Created
-- [ ] City Photo Created
+- [X] City Photo Created
 - [ ] Councilor Headshots Created
 - [ ] Images Uploaded to CDN
 - [ ] GeoJSON File Created
