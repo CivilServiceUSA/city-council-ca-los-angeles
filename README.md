@@ -23,7 +23,7 @@ We have completed the following Data Collection for Los Angeles, CA. [Watch Proj
 
 - [X] City Council Data Created
 - [X] City Photo Created
-- [ ] Councilor Headshots Created
+- [X] Councilor Headshots Created
 - [ ] Images Uploaded to CDN
 - [X] GeoJSON File Created
 - [ ] Published NPM Package
