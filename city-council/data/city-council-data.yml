@@ -211,11 +211,11 @@
     vacant: "false"
     title: "councilor"
     party: "democrat"
-    name: "Paul Kortez"
-    name_slug: "paul-kortez"
+    name: "Paul Koretz"
+    name_slug: "paul-koretz"
     first_name: "Paul"
     middle_name: "Paul"
-    last_name: "Kortez"
+    last_name: "Koretz"
     name_suffix: null
     goes_by: null
     pronunciation: null
@@ -248,7 +248,7 @@
     twitter_handle: "PaulKoretzCD5"
     twitter_url: "https://twitter.com/PaulKoretzCD5"
     facebook_url: "https://www.facebook.com/pkoretz"
-    photo_url: "https://cdn.civil.services/city-council/ca/los-angeles/headshots/512x512/paul-kortez.jpg"
+    photo_url: "https://cdn.civil.services/city-council/ca/los-angeles/headshots/512x512/paul-koretz.jpg"
   - 
     state_name: "California"
     state_name_slug: "california"

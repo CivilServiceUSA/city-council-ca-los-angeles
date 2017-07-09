@@ -216,11 +216,11 @@
         <vacant>false</vacant>
         <title>councilor</title>
         <party>democrat</party>
-        <name>Paul Kortez</name>
-        <name_slug>paul-kortez</name_slug>
+        <name>Paul Koretz</name>
+        <name_slug>paul-koretz</name_slug>
         <first_name>Paul</first_name>
         <middle_name>Paul</middle_name>
-        <last_name>Kortez</last_name>
+        <last_name>Koretz</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>null</pronunciation>
@@ -253,7 +253,7 @@
         <twitter_handle>PaulKoretzCD5</twitter_handle>
         <twitter_url>https://twitter.com/PaulKoretzCD5</twitter_url>
         <facebook_url>https://www.facebook.com/pkoretz</facebook_url>
-        <photo_url>https://cdn.civil.services/city-council/ca/los-angeles/headshots/512x512/paul-kortez.jpg</photo_url>
+        <photo_url>https://cdn.civil.services/city-council/ca/los-angeles/headshots/512x512/paul-koretz.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
